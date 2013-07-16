@@ -1,6 +1,6 @@
 (defproject pail-time "0.1.1-SNAPSHOT"
   :description "Partitioning strategies for using clj-time with clj-pail."
-  :url "https://github.com/dcuddeback/pail-thrift"
+  :url "https://github.com/dcuddeback/pail-time"
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
 
