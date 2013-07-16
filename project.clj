@@ -7,7 +7,7 @@
   :min-lein-version "2.0.0"
 
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [clj-pail "0.1.0"]
+                 [clj-pail "0.1.3"]
                  [clj-time "0.5.1"]]
 
   :profiles {:1.3 {:dependencies [[org.clojure/clojure "1.3.0"]]}
