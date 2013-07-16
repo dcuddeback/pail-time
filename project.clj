@@ -1,5 +1,5 @@
 (defproject pail-time "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "Partitioning strategies for using clj-time with clj-pail."
   :url "https://github.com/dcuddeback/pail-thrift"
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
